@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: #814;
+    cursor: wait; 
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: #814;
+    cursor: text;
+}
+h2 {
+    color: #814;
+    font-family: 'Indie Flower', cursive;
+    cursor: text;
+}
+p {
+    font-family: 'Major Mono Display', monospace;
+    color: #814;
+    cursor: text;
+}
+button {
+    font-size: 20px;
+    padding: 10px;
+}
+a:hover {
+    color: red;
+}
